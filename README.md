@@ -2,3 +2,6 @@
 Basic repo for items with a little basic obfuscation performed on them.
 
 Purely for testing / educational stuff only.
+
+#### PwrView_ob.ps1
+Powersploit / Recon / Powerview script with bits changed see:
